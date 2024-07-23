@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "263987659861",
+    "project_id": "fcmnoti-ddef5",
+    "storage_bucket": "fcmnoti-ddef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263987659861:android:d99a9a62cc8631098f40dc",
+        "android_client_info": {
+          "package_name": "com.example.mfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOiY2oNiTYAgUS1jhBcotEx93pYf0_P4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263987659861:android:676ce5347b4ca3698f40dc",
+        "android_client_info": {
+          "package_name": "com.example.myfcmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOiY2oNiTYAgUS1jhBcotEx93pYf0_P4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263987659861:android:4d4160ff6e0cdfd88f40dc",
+        "android_client_info": {
+          "package_name": "com.myfcmapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOiY2oNiTYAgUS1jhBcotEx93pYf0_P4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
